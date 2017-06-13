@@ -1,11 +1,6 @@
-Group Members 
+Developed with Java to micro edition 
 
-1.Bereket Abera(Soft)
-2.Bereket Gebredingle(Soft) 
-3.Natenhael Targkegn (Soft) 
-4.Kaleb wondowssen (Soft)  
-5.Bekele Debissa  (Soft)
-
+-Uses sprites for the player state pictures.
 
 Instruction for the game 
 
